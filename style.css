@@ -34,7 +34,7 @@ header {
   background-color: black;
   color: white;
   text-align: center;
-  font-family: "sriracha-regular";
+  font-family: "sriracha-regular",cursive;
 }
 
 header > h1 {
@@ -50,6 +50,7 @@ header > h1 {
     padding-bottom: 45px;
     font-family:"playwrite-ie";
      font-family: "sriracha-regular",cursive;
+     font-size: larger;
 }
 
  header a,footer a {
